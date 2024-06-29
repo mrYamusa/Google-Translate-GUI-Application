@@ -26,19 +26,14 @@ Welcome to the Google Translate GUI Application, a Python-based project that pro
 * Error handling for unexpected errors
 * Error messages displayed in a user-friendly format
 
-## Language List
----------------
-
-The application currently supports the following languages:
-
 ## How to Use
 --------------
 
 ### Installation
 
 1. `git clone https://github.com/your-username/google-translate-gui.git`
-2. `pip install -r requirements.txt`
-3. `python main.py` (assuming your main file is named `main.py`)
+2. `pip install relevant packages`
+3. `python GoogleTranslate.py` (assuming your main file is named `GoogleTranslate.py`)
 
 ### Usage
 
