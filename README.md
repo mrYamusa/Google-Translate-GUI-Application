@@ -1,4 +1,4 @@
-Google Translate GUI Application
+Google Translate GUI Application.
 =====================================
 
 ## Introduction
